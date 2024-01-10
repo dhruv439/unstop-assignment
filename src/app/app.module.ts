@@ -8,7 +8,6 @@ import { FunctionOutletComponent } from './function-outlet/function-outlet.compo
 @NgModule({
   declarations: [
     AppComponent,
-    FunctionOutletComponent
   ],
   imports: [
     BrowserModule,
